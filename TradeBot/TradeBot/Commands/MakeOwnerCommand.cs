@@ -1,11 +1,11 @@
 ﻿using System.Linq;
 using Microsoft.Extensions.Logging;
 using Telegram.Bot;
-using TelegramBot.Models;
-using TelegramBot.Servecies;
+using TradeBot.Models;
+using TradeBot.Servecies;
 using Message = Telegram.Bot.Types.Message;
 
-namespace TelegramBot.Commands
+namespace TradeBot.Commands
 {
     public class MakeOwnerCommand : Command
     {

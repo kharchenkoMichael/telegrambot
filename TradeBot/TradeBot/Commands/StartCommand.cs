@@ -1,8 +1,8 @@
 ﻿using Telegram.Bot;
-using TelegramBot.Models;
+using TradeBot.Models;
 using Message = Telegram.Bot.Types.Message;
 
-namespace TelegramBot.Commands
+namespace TradeBot.Commands
 {
     public class StartCommand : Command
     {

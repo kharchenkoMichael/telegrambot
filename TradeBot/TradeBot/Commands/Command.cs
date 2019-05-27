@@ -1,7 +1,7 @@
 ﻿using Telegram.Bot;
 using Telegram.Bot.Types;
 
-namespace TelegramBot.Commands
+namespace TradeBot.Commands
 {
     public abstract class Command
     {
