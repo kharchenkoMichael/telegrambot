@@ -1,0 +1,8 @@
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\bin\Debug\netcoreapp2.0\TradeBot.deps.json
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\bin\Debug\netcoreapp2.0\TradeBot.runtimeconfig.json
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\bin\Debug\netcoreapp2.0\TradeBot.runtimeconfig.dev.json
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\bin\Debug\netcoreapp2.0\TradeBot.dll
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\obj\Debug\netcoreapp2.0\TradeBot.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\obj\Debug\netcoreapp2.0\TradeBot.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\obj\Debug\netcoreapp2.0\TradeBot.AssemblyInfoInputs.cache
+C:\Users\Misha\Documents\GitHub\telegrambot\TradeBot\TradeBot\obj\Debug\netcoreapp2.0\TradeBot.AssemblyInfo.cs
